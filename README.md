@@ -1,23 +1,11 @@
-<h1 align="center">Welcome to van-presentation-slides		 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
-</p>
+# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
-> Front-end thick talk series of presentations, based on slidev
+To start the slide show:
 
-## All
+- `npm install`
+- `npm run dev`
+- visit http://localhost:3030
 
-|  Branches  |      description       |                             Link                             |
-| :--------: | :--------------------: | :----------------------------------------------------------: |
-| typescript | typescript分享演示文稿 | [:point_right:](https://github.com/yayxs/van-presentation-slides/tree/typescript) |
+Edit the [slides.md](./slides.md) to see the changes.
 
-
-## Author
-
-👤 **前端厚说-洋小洋同学**
-
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
+Learn more about Slidev on [documentations](https://sli.dev/).
