@@ -1,0 +1,3 @@
+packages:
+  # 所有演示文稿放在 presentations 目录下
+  - 'presentations/*' 
